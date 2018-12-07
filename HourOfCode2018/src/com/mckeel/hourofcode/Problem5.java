@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 
 /**
- * Created by Chandan on 12/6/2018.
+ * Created by Chandan and Sharon on 12/6/2018.
  */
 public class Problem5 {
     private static final String INPUT_FILE_NAME = "src/resources/Prob05.in.txt";
