@@ -28,6 +28,6 @@ public class Problem1 {
         }
 
         //TODO: Return the string containing your answer, use System.lineSeparator for line breaks";
-        return "...";
+        return "... ";
     }
 }
